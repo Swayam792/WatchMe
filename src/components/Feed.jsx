@@ -22,7 +22,7 @@ const Feed = () => {
          setSelectedCategory={setSelectedCategory}
         />
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff"}}>
-          Copyright 2022 JSM Media
+          Copyright 2023 Swayam Prakash Barik
         </Typography>
       </Box>
 
@@ -31,7 +31,7 @@ const Feed = () => {
         fontWeight="bold" mb={2} sx={{
           color: "white"
         }}>
-          {selectedCategory} <span style={{ color: "#F31503" }}>videos</span>
+          {selectedCategory} <span style={{ color: "#3d84b0" }}>videos</span>
         </Typography>
         <Videos videos={videos} />
       </Box>

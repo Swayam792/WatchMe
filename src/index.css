@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 a {
@@ -26,7 +26,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #3d84b0 !important;
   color: white !important;
 }
 
